@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24827433921",
+    "project_id": "awais-4f0c4",
+    "storage_bucket": "awais-4f0c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24827433921:android:6075fdae469bf64a4dd540",
+        "android_client_info": {
+          "package_name": "com.example.awais"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBChALsAxiHMGN--1X4FnwhUZWSiBYh9j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
